@@ -1,18 +1,35 @@
-# Getting Started with Create React App
+# 🎨 Color Theme App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple **React.js project** that allows users to change the background color or switch between **Light and Dark themes** dynamically.  
+This app demonstrates the use of React **state**, **event handling**, and **inline CSS styling**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo  
+👉 [Click here to view the live project](https://pandenakeerthi.github.io/color-theme-app)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧩 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🌗 Toggle between **Light** and **Dark** mode  
+- 🎨 Choose any custom color for background using a color picker  
+- ⚡ Instant UI updates using React State  
+- 💻 Responsive and beginner-friendly design  
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**  
+- **HTML5**  
+- **CSS3 (Inline styling)**  
+- **JavaScript (ES6)**  
+
+---
+
+## 📂 Project Structure
+
 
 
 
