@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-theme-app/static/css/main.f129c785.css",
+    "main.js": "/color-theme-app/static/js/main.ff6ca1de.js",
+    "index.html": "/color-theme-app/index.html",
+    "main.f129c785.css.map": "/color-theme-app/static/css/main.f129c785.css.map",
+    "main.ff6ca1de.js.map": "/color-theme-app/static/js/main.ff6ca1de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f129c785.css",
+    "static/js/main.ff6ca1de.js"
+  ]
+}
